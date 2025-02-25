@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 "USA" 
 "Canada" 
 "Mexico" 
 "Japan" 
 "China" 
 "India" 
+=======
+"Germany" 
+"France" 
+"Italy" 
+>>>>>>> user1
